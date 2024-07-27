@@ -1,0 +1,17 @@
+.one{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    
+}
+.oneRow{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.two{
+    height: 200px;
+    width: 200px;
+}
