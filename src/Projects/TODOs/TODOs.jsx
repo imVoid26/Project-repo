@@ -69,7 +69,7 @@ function TODOs() {
                                                 </div>
                                                 <div class="modal-body">
                                                     {/* textarea */}
-                                                    <textarea name="task" id="task" ></textarea>
+                                                    <textarea class="form-control" name="task" id="task" ></textarea>
                                                 </div>
                                                 <div class="modal-footer">
                                                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
