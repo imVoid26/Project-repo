@@ -2,7 +2,7 @@
 <br>
 <p>Small projects using React.js , Redux</p>
 
-<h3>1:ToDos App</h3> [Code] ()
+<h3>1:ToDos App</h3> [Code](https://github.com/imVoid26/Project-repo/blob/main/src/Projects/TODOs/TODOs.jsx)
 
 
 
